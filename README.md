@@ -1,4 +1,4 @@
-# Well Hello there, I'm Shiv Shankar Dash 👋
+# Well hello there, I'm Shiv Shankar Dash 👋
 
 I'm a software engineer, with a passion for Full stack dev, Devops and AI. I always aim to deliver high quality code and seamless user experiences. I keep on learning and iterating on new technologies not only as a necessity but also as a hobby. I love travelling, gaming (pc/console anything), filmmaking, and telling stories.
 
