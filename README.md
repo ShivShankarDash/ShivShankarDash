@@ -6,15 +6,20 @@ I'm a software engineer, with a passion for Full stack dev, Devops and AI. I alw
 
 Adept at adapting to any tech stack given to me, as long as the problem statement motivates me.
 
+## Github Stats 📊
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ShivShankarDash" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ShivShankarDash&theme=dark&show_icons=true" />
 </a>
 
 
-Feel free to reach out and connect with me!
+## Current Learning Goals 🎯
 
----
+- Gain more expertise in DevOps practices and tools
+- Learn and practise optimized approaches and paradigms to solve problems
+- Master GoLang and Rust
+- Dive deeper into the LLMs space
+
 
 ### 📫 How to reach me:
 
