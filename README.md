@@ -1,16 +1,25 @@
-## Hi there 👋
+# Well Hello there, I'm Shiv Shankar Dash 👋
 
-<!--
-**ShivShankarDash/ShivShankarDash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer, with a passion for Full stack dev, Devops and AI. I always aim to deliver high quality code and seamless user experiences. I keep on learning and iterating on new technologies not only as a necessity but also as a hobby. I love travelling, gaming (pc/console anything), filmmaking, and telling stories.
 
-Here are some ideas to get you started:
+## Technologies and Tools 🛠️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Adept at adapting to any tech stack given to me, as long as the problem statement motivates me.
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ShivShankarDash" />
+</a>
+
+
+Feel free to reach out and connect with me!
+
+---
+
+### 📫 How to reach me:
+
+- [Email](mailto:dashshiv20@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/shiv-shankar-dash/)
+- [Twitter](https://x.com/Shiv_ssd)
+
+Looking forward to collaborating and building amazing projects together!
