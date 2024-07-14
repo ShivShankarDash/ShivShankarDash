@@ -21,7 +21,7 @@ Adept at adapting to any tech stack given to me, as long as the problem statemen
 - Dive deeper into the LLMs space
 
 
-### 📫 How to reach me:
+## How to reach me 📫
 
 - [Email](mailto:dashshiv20@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/shiv-shankar-dash/)
